@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+  font-family: sans-serif;
+}
+
+.agotado {
+  color: darkred;
+  font-weight: bold;
+}
+
+.destacado {
+  background-color: rgb(157, 184, 104);
+}
